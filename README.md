@@ -351,4 +351,4 @@ abandoned.
 If you've used `erwiz` before, you'll notice that the format of the `er` file 
 is inspired by it. The `er` format is a bit more lightweight, but its general 
 structure is similar.
-
+HELLo I was wondering if you could add me to your project, I'm intersted please let me know at hmekonn1@asu.edu
